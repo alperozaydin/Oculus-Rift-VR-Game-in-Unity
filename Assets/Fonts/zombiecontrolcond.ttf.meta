@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8db188f7023f0d247834a738924be692
+timeCreated: 1497963674
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zombie Control Condensed
+  fontNames:
+  - Zombie Control Condensed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

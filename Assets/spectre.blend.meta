@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 07cf012cde482d742884bf5c56d1b6c8
+timeCreated: 1499343381
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BONES_ARM_R
+    100002: BONES_ARM_R_001
+    100004: BONES_ARM_R_002
+    100006: BONES_ARM_R_003
+    100008: BONES_ARM_R_004
+    100010: BONES_ARM_R_005
+    100012: BONES_ARM_R_006
+    100014: BONES_ARM_R_007
+    100016: BONES_ARM_R_008
+    100018: BONES_ARM_R_009
+    100020: BONES_ARM_R_010
+    100022: BONES_ARM_R_011
+    100024: BONES_HEAD
+    100026: Cube
+    100028: Cube_001
+    100030: Plane
+    100032: Plane_001
+    100034: Plane_002
+    100036: //RootNode
+    100038: Sphere
+    400000: BONES_ARM_R
+    400002: BONES_ARM_R_001
+    400004: BONES_ARM_R_002
+    400006: BONES_ARM_R_003
+    400008: BONES_ARM_R_004
+    400010: BONES_ARM_R_005
+    400012: BONES_ARM_R_006
+    400014: BONES_ARM_R_007
+    400016: BONES_ARM_R_008
+    400018: BONES_ARM_R_009
+    400020: BONES_ARM_R_010
+    400022: BONES_ARM_R_011
+    400024: BONES_HEAD
+    400026: Cube
+    400028: Cube_001
+    400030: Plane
+    400032: Plane_001
+    400034: Plane_002
+    400036: //RootNode
+    400038: Sphere
+    2300000: BONES_ARM_R
+    2300002: BONES_ARM_R_001
+    2300004: BONES_ARM_R_002
+    2300006: BONES_ARM_R_003
+    2300008: BONES_ARM_R_004
+    2300010: BONES_ARM_R_005
+    2300012: BONES_ARM_R_006
+    2300014: BONES_ARM_R_007
+    2300016: BONES_ARM_R_008
+    2300018: BONES_ARM_R_009
+    2300020: BONES_ARM_R_010
+    2300022: BONES_ARM_R_011
+    2300024: BONES_HEAD
+    2300026: Cube
+    2300028: Cube_001
+    2300030: Plane
+    2300032: Plane_001
+    2300034: Plane_002
+    2300036: Sphere
+    3300000: BONES_ARM_R
+    3300002: BONES_ARM_R_001
+    3300004: BONES_ARM_R_002
+    3300006: BONES_ARM_R_003
+    3300008: BONES_ARM_R_004
+    3300010: BONES_ARM_R_005
+    3300012: BONES_ARM_R_006
+    3300014: BONES_ARM_R_007
+    3300016: BONES_ARM_R_008
+    3300018: BONES_ARM_R_009
+    3300020: BONES_ARM_R_010
+    3300022: BONES_ARM_R_011
+    3300024: BONES_HEAD
+    3300026: Cube
+    3300028: Cube_001
+    3300030: Plane
+    3300032: Plane_001
+    3300034: Plane_002
+    3300036: Sphere
+    4300000: Sphere
+    4300002: Cube_001
+    4300004: Cube
+    4300006: Plane_002
+    4300008: Plane_001
+    4300010: Plane
+    4300012: BONES_ARM_R_011
+    4300014: BONES_ARM_R_010
+    4300016: BONES_ARM_R_009
+    4300018: BONES_ARM_R_008
+    4300020: BONES_ARM_R_007
+    4300022: BONES_ARM_R_006
+    4300024: BONES_ARM_R_005
+    4300026: BONES_ARM_R_004
+    4300028: BONES_ARM_R_003
+    4300030: BONES_ARM_R_001
+    4300032: BONES_ARM_R_002
+    4300034: BONES_HEAD
+    4300036: BONES_ARM_R
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
